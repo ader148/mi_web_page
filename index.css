@@ -1,0 +1,265 @@
+#contenedor_index{
+    background-color: white;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    display: inline-flex;
+    width: 100%;
+    color: black;
+    margin-top: 7%;
+}
+
+.container{
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 10%;
+}
+
+.container_intereses{
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 0%;
+}
+
+
+.container_contact{
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 5%;
+  text-align: center;
+}
+
+.sub_title{
+  color: darkgray;
+   letter-spacing: 1px;
+   margin-top: 5px;
+    margin-left: 3px;
+    font-size: 16px;
+}
+
+.table_est{
+  margin-top: 3%;
+  width: 100%;
+}
+
+.col{
+  width: 50%;
+}
+
+.col_r{
+  text-align: right;
+}
+
+.col_50{
+  width: 50%;
+}
+
+.row_1{
+  display: inline-flex;
+  width: 100%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
+
+#msg{
+  width: 88%;
+  border-radius: 20px;
+  min-height: 42px;
+  padding-left: 4%;
+  background: #232427;
+  color: lightslategrey !important;
+  box-shadow: 10px 10px 20px rgba(0,0,0,.12) !important;
+  border: none;
+  outline:none !important;
+  margin-bottom: 4%;
+  padding-top: 3%;
+}
+
+#btn_enviar{
+
+  border: none;
+  background-color: #fed136;
+  color: black;
+  font-size: 20pt;
+  font-weight: bold;
+  letter-spacing: 4px;
+  border-radius: 20px;
+  padding: 8px 38px 8px 38px;
+
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 100%;
+}
+
+
+.img_pasa{
+  max-width: 250px;
+}
+
+
+.container_inter{
+  text-align: center;
+  padding-top: 2%;
+  text-align: center;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container_card {
+  padding: 2px 16px;
+  padding-left: 0px;
+}
+
+.p_pass{
+  text-align: justify;
+}
+
+.row_30{
+  width: 33%;
+  text-align: left;
+}
+
+.contenedor_tabs{
+  display: inline-flex;
+  width: 100%;
+  text-align: center;
+}
+
+
+.container_pasatiempos{
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 1%;
+
+}
+
+#btn_enviar:hover{
+  background-color:#d05228;
+  cursor: pointer;
+}
+
+.row_intereses{
+  display: inline-flex;
+  width: 100%;
+  margin-top: 5%;
+}
+
+
+.fa_intereses{
+  font-size: 21pt !important;
+}
+
+
+.form-control{
+  width: 80%;
+  border-radius: 20px;
+  min-height: 42px;
+  padding-left: 4%;
+  background: #232427;
+  color: lightslategrey !important;
+  box-shadow: 10px 10px 20px rgba(0,0,0,.12) !important;
+  border: none;
+  outline:none !important;
+}
+
+.col_l{
+  text-align: left;
+  padding-left: 3%;
+  padding-top: 3%;
+}
+
+.img_perfil{
+    border-radius: 50%;
+    max-width: 35%;
+}
+
+.logo{
+  position: absolute;
+    float: left;
+    top: 5%;
+    left: 2%;
+    max-height: 16%;
+}
+
+footer{
+  text-align: center;
+  padding-top: 7%;
+}
+
+
+.title_est{
+  margin-bottom: 0px;
+}
+
+span.follow{
+  border: 1px solid;
+    padding: 4px 18px 5px 18px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.main_title{
+    color: #D05228;
+}
+
+ol.social li {
+  display: inline-block;
+  padding: 0 10px;
+  color: #000;
+}
+
+.fa-2x{
+  color: white;
+}
+
+.fa-2x:hover{
+  color: #d05228;
+}
+
+
+.menu> li > a:hover{
+  color: #d05228;
+}
+
+
+ul.menu {
+    list-style: none;
+    margin: 0;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: right;
+    padding-left: 53%;
+    padding-top: 4%;
+  }
+
+  ul.menu li a {
+    color: white;
+    display: block;
+    padding: .3em;
+    text-decoration: none;
+    font-weight: 100 !important;
+  }
+
+  ul.menu li {
+    float: left;
+    width: 18%;
+    text-align: center;
+  }
+
+body{
+    margin: 0px;
+    background-color: black;
+    color: white;
+}
+
+h1,h2,h3,h4,h4,p,a{
+    font-family: 'Roboto', sans-serif;
+}
+
